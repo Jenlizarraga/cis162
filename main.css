@@ -1,0 +1,58 @@
+html {
+    background: #3C153B;
+
+}
+    
+body {
+    
+    background: #8B1E3F;
+    color: #545854;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    margin: 0 auto;
+    max-width: 800px;
+    padding: 2em 2em 4em;
+}
+
+header {
+    background: #89BD9E;
+    color: black;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 20px;
+    line-height: 1.5;
+    margin: 0 auto;
+    max-width: 800px;
+    padding-left: 7px;
+    
+}
+
+
+
+nav > ul {
+    
+    line-height:2em;
+    list-style-type: none;
+    padding-left:10px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    letter-spacing: 0.05em;
+    color: cadetblue;
+    font-weight: 800;
+    line-height: 1.7;
+}
+
+section {
+    background-color: #F0C987;
+     width:75%;
+     font-size: 1.5em;
+    line-height: 1.5;
+    margin: 0 auto;
+    max-width: 800px;
+    padding: 4em 2em 4em;
+}
+
+footer {
+    background-color:#DB4C40;
+    padding-left:7px;
+}
+
